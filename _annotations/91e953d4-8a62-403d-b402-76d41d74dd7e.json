@@ -1,0 +1,33 @@
+---
+canvas: "https://virtualheritage.unife.it/iiif/3/9341/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Babinsky, di Parigi",
+            "purpose": "commenting",
+            "creator": {
+                "id": "atomotic",
+                "name": "raffaele messuti"
+            },
+            "created": "2024-04-19T17:03:38.090Z",
+            "modified": "2024-04-19T17:03:47.088Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://virtualheritage.unife.it/iiif/3/9341/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"3818.0389404296875\" cy=\"3314.4615478515625\" r=\"66.63142077284819\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "91e953d4-8a62-403d-b402-76d41d74dd7e.json",
+    "motivation": "commenting"
+}
