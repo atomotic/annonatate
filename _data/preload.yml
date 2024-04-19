@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-04-19 17:03:00.580513'
+  iiif: false
+  thumbnail: https://virtualheritage.unife.it/iiif/3/9341/info.json
+  title: ''
+  url: https://virtualheritage.unife.it/iiif/3/9341/info.json
+  user: raffaele messuti
 settings: {}
 version: '2.1'
